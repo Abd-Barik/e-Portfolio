@@ -1,6 +1,6 @@
 # Abdul Barik Habibi bin Mohd Iskanda
 
-<img src="link-to-profile-picture" alt="Profile Picture" width="150"/>
+<img src="./" alt="Profile Picture" width="150"/>
 
 ## 👩‍💻 Headlines
 - **The Bachelor of Computer Science (Graphics and Multimedia Software)**
